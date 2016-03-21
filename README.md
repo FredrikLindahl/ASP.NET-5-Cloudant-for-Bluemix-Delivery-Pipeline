@@ -8,4 +8,4 @@ of integration and unit tests meant to be runned in the IBM DevOps Delivery Pipe
 ## Setup the DevOps Delivery Pipeline for this project
 
 Follow this guide to get your ASP.NET project running in the DevOps Delivery Pipeline. 
-[Setup Guide]: 
+[Setup Guide from Slide Share]: http://www.slideshare.net/RichardJohansson1/how-to-set-up-an-aspnet-5-continuous-delivery-pipeline-using-ibm-bluemix-devops-services
