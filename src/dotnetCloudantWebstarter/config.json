@@ -1,0 +1,16 @@
+{
+  "cloudantNoSQLDB": [
+    {
+      "name": "sample-aspnet5-cloudant-cloudantNoSQLDB",
+      "label": "cloudantNoSQLDB",
+      "plan": "Shared",
+      "credentials": {
+        "username": "9d1bbb2b-69da-4c5d-aad5-41b06d31ddfb-bluemix",
+        "password": "dce250292266ceb01cfdb4e6d6e6e9ccefe3212f609945c14c6917ec4c692976",
+        "host": "9d1bbb2b-69da-4c5d-aad5-41b06d31ddfb-bluemix.cloudant.com",
+        "port": 443,
+        "url": "https://9d1bbb2b-69da-4c5d-aad5-41b06d31ddfb-bluemix:dce250292266ceb01cfdb4e6d6e6e9ccefe3212f609945c14c6917ec4c692976@9d1bbb2b-69da-4c5d-aad5-41b06d31ddfb-bluemix.cloudant.com"
+      }
+    }
+  ]
+}
