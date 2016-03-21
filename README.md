@@ -1,20 +1,11 @@
 # ASP .NET 5 Cloudant Sample
 
-This application demonstrates how to use the Bluemix Cloudant NoSQL DB Service in an ASP.NET 5 application.
+This application demonstrates how to use the Bluemix Cloudant NoSQL DB Service in an ASP.NET 5 application with the addition 
+of integration and unit tests meant to be runned in the IBM DevOps Delivery Pipeline. 
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
 
-## Run the app locally
+## Setup the DevOps Delivery Pipeline for this project
 
-1. Install ASP.NET 5 by following the [Getting Started][] instructions
-2. Clone this app
-3. cd into the app directory and then `src/dotnetCloudantWebstarter`
-4. Copy the value for the VCAP_SERVICES envirionment variable from the application running in Bluemix and paste it in the config.json file
-5. Run `dnu restore`
-6. Run `dnx kestrel`
-7. Access the running app in a browser at http://localhost:5004
-
-[Getting Started]: http://docs.asp.net/en/latest/getting-started/index.html
-
-
-
+Follow this guide to get your ASP.NET project running in the DevOps Delivery Pipeline. 
+[Setup Guide]: 
